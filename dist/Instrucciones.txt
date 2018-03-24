@@ -1,0 +1,13 @@
+KamuiUSB v0.1 (Instrucciones <lang=es>)
+/*ADVERTENCIA: uso fuera de memorias USB puede causar daños al equipo, siempre es recomendable el uso de un
+antivirus profesional*/
+
+1-Ejecutar opcion 1, buscará todos los archivos relacionados con el virus y los eliminará.
+2-Ejecutar opcion 2, mostrará los archivos ocultos dentro de la memoria (únicamente si no han sido eliminadas 
+o formateadas).
+3-Actualizar la ventana del explorador (press F5).
+
+Nota: Si se encuentran muchos archivos sospechosos (con nombres extraños, sin tipo) luego del uso del antivirus,
+le recomendamos copiar todos sus archivos al equipo y formatear la unidad USB.
+
+TechNica SE 2018, Universidad Nacional de Ingeniería (FCYS), #include <cs50.h>, Managua Nicaragua
